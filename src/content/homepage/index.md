@@ -1,11 +1,11 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Let AI enhance your panel"
+  content: "Reduce costs and field time through innovation"
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Start now
+    link: "https://app.livepanel.ai"
     enable: true
 
 ##key features
